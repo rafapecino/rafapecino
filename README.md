@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rafael+Pecino;AI+%2F+ML+Engineer;Deep+Learning+%7C+NLP+%7C+LLMs;Building+intelligent+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rafael+Pecino;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+LLMs;Building+intelligent+systems" alt="Typing SVG" />
 
 <br/>
 
-**Software Engineer specialised in AI & Machine Learning**
+**Machine Learning Engineer** · Deep Learning · NLP · LLMs
 
 Researching Predictive Maintenance (RUL) with Deep Learning · MSc AI @ UAX · Madrid, Spain
 
@@ -83,7 +83,7 @@ Researching Predictive Maintenance (RUL) with Deep Learning · MSc AI @ UAX · M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafapecino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafapecino&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapecino&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=java,html,css" />
 
 </div>
