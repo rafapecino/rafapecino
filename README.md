@@ -84,8 +84,8 @@ Researching Predictive Maintenance (RUL) with Deep Learning · MSc AI @ UAX · M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafapecino&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapecino&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=java,html,css" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafapecino&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafapecino&theme=tokyonight" />
 
 </div>
 
