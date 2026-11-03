@@ -70,13 +70,13 @@ Researching Predictive Maintenance (RUL) with Deep Learning · MSc AI @ UAX · M
 | Project                                                                                               | Description                                                                                                                                                                  | Stack                                       |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | [🛩️ TFM – Aero-Engine RUL](https://github.com/rafapecino/TFM-AeroEngine-Anomaly-RUL-VAE-TFT)          | Hierarchical DL pipeline for Remaining Useful Life estimation on NASA C-MAPSS. Outperforms SOTA on FD002 & FD004. Target: RESS / MSSP (Q1 JCR).                              | PyTorch · VAE · LSTM · Transformer          |
-| [🛡️ SIEM / UEBA – Insider Threat](https://github.com/rafapecino/SIEM-insider-threat-ueba)             | Multi-detector UEBA that flags insider threats on the CERT r4.2 dataset — rules + Isolation Forest + autoencoder + temporal Transformer — with an interactive SOC dashboard. | Polars · PyTorch · scikit-learn · Streamlit |
+| [🎓 TFG – CV Matcher](https://github.com/rafapecino/cv-matcher-nlp)                                         | Final-degree project: semantic CV-to-job matching & ranking with NLP and embeddings (Vertex AI / OpenAI / HF), with a Gradio UI.                                             | HuggingFace · Vertex AI · Gradio            |
 | [💬 Telegram AI Assistant](https://github.com/rafapecino/telegram-assistant)                           | Personal LLM assistant on Telegram and a web panel: natural-language reminders, bank-synced expense tracking with budgets, shopping list, notes, habits and Google Calendar. Understands voice notes. | Supabase · Deno · Groq (gpt-oss-120b, Whisper) · React |
-| [🤖 CV Matcher](https://github.com/rafapecino/cv-matcher-nlp)                                         | Final-degree project: semantic CV-to-job matching & ranking with NLP and embeddings (Vertex AI / OpenAI / HF), with a Gradio UI.                                             | HuggingFace · Vertex AI · Gradio            |
+| [🏍️ PecinoGP](https://github.com/rafapecino/PecinoGP_Web)                                             | High-traffic MotoGP data platform with real-time REST APIs and CI/CD on Vercel.                                                                                              | Next.js · TypeScript · Vercel               |
+| [🛡️ SIEM / UEBA – Insider Threat](https://github.com/rafapecino/SIEM-insider-threat-ueba)             | Multi-detector UEBA that flags insider threats on the CERT r4.2 dataset — rules + Isolation Forest + autoencoder + temporal Transformer — with an interactive SOC dashboard. | Polars · PyTorch · scikit-learn · Streamlit |
 | [📰 News Classifier](https://github.com/rafapecino/news-classification-neural-networks)               | Multi-category news classification comparing neural network architectures.                                                                                                   | PyTorch · NLP                               |
 | [🎬 IMDB Sentiment Analysis](https://github.com/rafapecino/imdb-sentiment-analysis)                   | Sentiment classification on IMDB movie reviews.                                                                                                                              | PyTorch · NLP                               |
 | [🏠 Housing Price Prediction](https://github.com/rafapecino/ames-house-prices-regularized-regression) | Regularised regression (Ridge/Lasso) + PCA on the Ames dataset.                                                                                                              | R · scikit-learn                            |
-| [🏍️ PecinoGP](https://github.com/rafapecino/PecinoGP_Web)                                             | High-traffic MotoGP data platform with real-time REST APIs and CI/CD on Vercel.                                                                                              | Next.js · TypeScript · Vercel               |
 
 ---
 
@@ -84,8 +84,8 @@ Researching Predictive Maintenance (RUL) with Deep Learning · MSc AI @ UAX · M
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafapecino&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapecino&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=java,html,css" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafapecino&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafapecino&theme=tokyonight" />
 
 </div>
 
